@@ -1,0 +1,12 @@
+FixIt — Campus Maintenance App
+
+Short description:
+A responsive campus maintenance reporting and ticket-tracking demo built with HTML, CSS, and JavaScript.
+
+GitHub topics:
+campus-maintenance, issue-tracking, html, css, javascript, github-pages, student-project
+
+Repository setup:
+- Keep index.html in the root.
+- No build step is required.
+- GitHub Pages can publish the static demo.
